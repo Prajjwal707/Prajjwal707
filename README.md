@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Auction Platform using Mern Stack with AI <br>👯 I'm looking to collaborate on the open source platform <br>🌱 I'm currently learning UI/UX <br>💬 You can ask me about DSA<br>⚡ I love to play Games
+🔭 I'm currently working on Auction Platform using Mern Stack with AI <br>👯 I'm looking to collaborate on the open source platform <br>🌱 I'm currently learning DevOps <br>💬 You can ask me about DSA<br>⚡ I love to play Games
 
 
 ## 🌐 Socials:
